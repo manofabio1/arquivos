@@ -1,1 +1,1 @@
-rm -rf install; wget https://raw.githubusercontent.com/modderajuda/donomodderajuda/main/S/install; chmod +x install; ./install
+rm -rf install; wget https://raw.githubusercontent.com/manofabio1/arquivos/main/S/install; chmod +x install; ./install
